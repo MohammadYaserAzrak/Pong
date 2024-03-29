@@ -14,3 +14,6 @@ git clone <repo-link>
 ```
 python pong.py
 ```
+
+## Demo
+![Pong](https://github.com/MohammadYaserAzrak/Pong/assets/110301018/326f72f1-e82e-4627-a2a8-52e4bf86aba6)
